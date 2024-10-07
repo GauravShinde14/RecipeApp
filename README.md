@@ -1,6 +1,6 @@
 # recipe_app
 
-A new Flutter project.
+A Flutter project that demonstrates API Fetching and Authentication
 
 ## Getting Started
 
